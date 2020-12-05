@@ -1,0 +1,100 @@
+body{
+
+margin: 0px;
+}
+.header{
+
+border-bottom: 1px solid #d4c9c9;
+}
+.header img{
+	
+width: 200px;
+	
+margin-left: auto;
+	
+margin-right: auto;
+	
+display: block;
+}
+.container{
+
+width: 1000px;
+
+margin-left: auto;
+
+margin-right: auto;
+
+padding-top: 40px;
+
+padding-left: 15px;
+
+padding-right: 15px;
+
+margin-bottom: 40px;
+}
+h1{
+
+margin: 0;
+
+text-align: center;
+
+font-size: 50px;
+}
+.sky{
+
+color: deepskyblue;
+}
+.blue{
+
+color: #2c09ff;
+}
+.red{
+
+color: orangered;
+}
+.green{
+
+color: seagreen;
+}
+img{
+	
+width: 100%;
+	
+padding-top: 10px;
+	
+padding-bottom: 10px;
+}
+h2{
+
+margin: 0;
+
+font-size: 35px;
+
+line-height: .8;
+
+color: blue;
+}
+p{
+	
+margin: 0;
+	
+font-size: 18px;
+}
+.box{
+
+background-color: aqua;
+
+padding-top: 65px;
+
+padding-bottom: 65px;
+
+text-align: center;
+
+color: brown;
+}
+h3{
+	
+margin: 0;
+	
+font-size: 40px;
+}
